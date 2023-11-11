@@ -84,7 +84,7 @@
   }
 }
 
-@media (max-width: 620px) {
+@media (min-width: 451px) and (max-width: 620px) {
   .title {
     font-size: 60px;
   }
