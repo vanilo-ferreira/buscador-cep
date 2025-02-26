@@ -26,16 +26,12 @@ O projeto que foi criado pode ser visto nas Figuras 1 e 2.
 </figure>
 
 <figure>
-   <img align="center" alt="Barbearia dark" src="./doc/assets/barbearia-dark.png" />
+   <img align="center" alt="Consulta no Buscador de CEP" src="./doc/assets/buscador2.png" />
   <figcaption align="center">
     <span style="font-weight:bold">Figura 2.
     </span>
   Projeto após a busca.</figcaption>
 </figure>
-
-Essa Landing Page está dividida em um **topo e duas seções**. Cada seção possui um tipo de informaçõa diferente.
-
-- Informações da Barbearia.
 
 ### `npm start`
 
@@ -45,4 +41,4 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu na
 ### `deploy`
 
 O deploy da aplicação foi realizado na plataforma [Vercel](https://vercel.com/).
-E poderá ser acompanhado através do seguinte link: (https://buscador-cep-rho-nine.vercel.app/).
+E poderá ser acompanhado através do seguinte link: [Buscador de CEP](https://buscador-cep-rho-nine.vercel.app/).
